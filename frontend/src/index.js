@@ -15,7 +15,7 @@ root.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
-function reportWebVitals(onPerfEntry) {
+/*function reportWebVitals(onPerfEntry) {
   if (onPerfEntry && onPerfEntry instanceof Function) {
     import('web-vitals').then(({ getCLS, getFID, getFCP, getLCP, getTTFB }) => {
       getCLS(onPerfEntry);
@@ -25,4 +25,4 @@ function reportWebVitals(onPerfEntry) {
       getTTFB(onPerfEntry);
     });
   }
-}
+}*/
